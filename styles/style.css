@@ -83,7 +83,6 @@ fieldset {
   display: flex;
   width: 100%;
   gap: 40px;
-  min-height: 54px;
 }
 
 .search-form__fieldset {
